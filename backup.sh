@@ -10,4 +10,4 @@ git add .
 git commit -m "Backup on $(date)"
 
 # push the changes to the remote repository
-git push origin master
+git push origin main
